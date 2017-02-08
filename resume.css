@@ -35,11 +35,12 @@ h1, h2, h3, h4, h5, h6, p, a, li {
   text-align: center;
 }
 .resume .main .header .header-icons .page-subhead {
-  margin: 1rem 15px;
+  margin: 5px;
   display: inline;
+  font-size: small;
 }
 .resume .main .header .fa {
-  padding-right: 10px;
+  padding-right: 5px;
 }
 .resume .main .indented {
   padding-left: 40px;

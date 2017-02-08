@@ -29,9 +29,9 @@ angular.module('Resume', ['ngMaterial'])
         <h2 class="page-title page-title-last">{{lastName}}</h2>
       </div>
       <div class="header-icons">
-        <span ng-if="website" class="md-subhead page-subhead"><i class="fa fa-lg fa-code"></i>{{website}}</span>
+        <span ng-if="website" class="md-subhead page-subhead"><i class="fa fa-lg fa-globe"></i>{{website}}</span>
         <span ng-if="phone" class="md-subhead page-subhead"><i class="fa fa-lg fa-phone"></i>{{phone}}</span>
-        <span ng-if="email" class="md-subhead page-subhead"><i class="fa fa-lg fa-envelope"></i>{{email}}</span>
+        <span ng-if="email" class="md-subhead page-subhead"><i class="fa fa-lg fa-envelope-o"></i>{{email}}</span>
         <span ng-if="github" class="md-subhead page-subhead"><i class="fa fa-lg fa-github"></i>{{github}}</span>
         <span ng-if="linkedin" class="md-subhead page-subhead"><i class="fa fa-lg fa-linkedin-square"></i>{{linkedin}}</span>
       </div>
