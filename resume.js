@@ -10,6 +10,7 @@ angular.module('Resume', ['ngMaterial'])
   }
 })
 
+
 .directive('resumeHeading', function() {
   return {
     restrict: 'E',

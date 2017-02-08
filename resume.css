@@ -60,11 +60,11 @@ h1, h2, h3, h4, h5, h6, p, a, li {
 .resume .main .category-row .category-title,
 .resume .main .category-row .category-subtitle {
   display: inline;
-  margin-top: 10px;
-  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-bottom: 2px;
 }
 .resume .main .category-row .category-bullets {
-  margin-top: 5px;
+  margin-top: 2px;
 }
 .resume .main .category-row p,
 .resume .main .category-row li {
