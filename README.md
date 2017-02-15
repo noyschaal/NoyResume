@@ -1,2 +1,0 @@
-# yuvalMaterialResume
-material resume
