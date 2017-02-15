@@ -2,6 +2,20 @@ h1, h2, h3, h4, h5, h6, p, a, li {
   font-family: 'Raleway', sans-serif;
 }
 
+.shift {
+	margin-top: -35px;
+	margin-left: -20px;
+}
+
+
+.shift20 {
+	margin-top: -20px;
+}
+
+.shift10 {
+	margin-top: -10px;
+}
+
 .resume {
   background-color: #1f1f1f;
   min-height: 100vh;
